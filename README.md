@@ -1,5 +1,5 @@
 <h2 align="center">
--PREDICTIVE-MODELING-FOR-PRUDENTIAL-LIFE-INSURANCE-ASSESSMENT-
+Causal Analysis for Marketing Project
 </h2>  
 
 Welcome to the Causal Analysis for Marketing Project repository. In this project, we delve into the realm of causal inference using advanced statistical techniques to uncover the causal relationships between variables within the domain of marketing and customer behavior.
